@@ -1,4 +1,4 @@
-class radio_button_tag
+class Dog
   def name=(dog_name)
     this_dogs_name =
 dog_name
